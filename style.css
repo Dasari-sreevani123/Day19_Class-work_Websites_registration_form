@@ -1,0 +1,27 @@
+
+        body {
+            background-color: #a7d9f5;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 500px;
+            margin: 100px auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+        }
+        input, select, button {
+            width: 98%;
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 15px;
+        }
+        .gender-group {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        h2{
+            text-align:center;
+        }
